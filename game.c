@@ -35,7 +35,7 @@ typedef struct _ball
     SDL_Surface* image;
 } ball;
 
-typedef struct _player
+typedef struct _player 
 {
     int positionX;
     int positionY;
