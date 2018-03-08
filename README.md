@@ -13,4 +13,4 @@ If you have it already:
   
 * All the images need to be on the same folder as the rest, not on a separate folder
 
-*Leonardo Santos, Julio Milhm e Davson Santos
+* Leonardo Santos, Julio Milhm e Davson Santos
