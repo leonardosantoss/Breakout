@@ -1,4 +1,4 @@
-# Breakout
+# Breakout SDL2
 Breakout game using SDL2
 
 This program needs SDL2 installed to run.
